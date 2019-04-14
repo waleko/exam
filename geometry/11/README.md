@@ -29,9 +29,11 @@
 ### Свойства
 1. $$ \vec{a} + \vec{0} =  \vec{a} $$
 2. $$ \vec{a} + \vec{-a} =  \vec{0} $$
-3. $$ \vec{a} + \vec{b} =  \vec{b} + \vec{a} $$   
+3. $$ \vec{a} + \vec{b} =  \vec{b} + \vec{a} $$
+
 *Доказательтво по правилу параллелогрмма и разбором: коллинеарный или нет.*
-4. $$ (\vec{a} + \vec{b}) + \vec{с} =  \vec{a} + (\vec{b} + \vec{с}) = \vec{a} + \vec{b} + \vec{с} $$   
+4. $$ (\vec{a} + \vec{b}) + \vec{с} =  \vec{a} + (\vec{b} + \vec{с}) = \vec{a} + \vec{b} + \vec{с} $$
+
 *Доказательство построением*
 
 ## Вычитание векторов
@@ -44,11 +46,15 @@ $$ \vec{a} - \vec{b} =  \vec{a} + (-\vec{b}) $$
 ### Свойства
 1. $$ 0 \cdot \vec{a} = \vec{0} $$
 2. $$ k \cdot \vec{0} = \vec{0} $$
-3. $$ (k + m) \cdot \vec{a} = k\vec{a} + m\vec{a} $$    
+3. $$ (k + m) \cdot \vec{a} = k\vec{a} + m\vec{a} $$
+
 *Доказательтво ужасным перебором k, m и $$ \vec{a} $$*
-4. $$ k \cdot (\vec{a} + \vec{b}) = k\vec{a} + k\vec{b} $$    
+4. $$ k \cdot (\vec{a} + \vec{b}) = k\vec{a} + k\vec{b} $$
+
 *Доказательтво ужасным перебором k, $$ \vec{a} $$ и $$ \vec{b} $$*
-5. $$ k \cdot m\vec{a} = km\vec{a} $$   
+5. $$ k \cdot m\vec{a} = km\vec{a} $$
+
 *Доказательтво ужасным перебором*
+
 
 {% include lib/mathjax.html %}
