@@ -9,3 +9,5 @@
 
 ## Лицензия
 Проект предлагается под лицензией [MIT License](LICENSE)
+
+(С) Alexander Kovrigin 2019
