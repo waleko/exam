@@ -3,7 +3,7 @@
 
 ## Точка пересечения высот
 
-<iframe scrolling="no" title="Высоты" src="https://www.geogebra.org/material/iframe/id/attfxebf/width/2560/height/1233/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/true/sdz/false/ctl/false" width="2560px" height="1233px" style="border:0px;"> </iframe>
+<iframe scrolling="no" title="Высоты" src="https://www.geogebra.org/material/iframe/id/attfxebf/width/525/height/252/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/true/sdz/false/ctl/false" width="525px" height="252px" style="border:0px;"> </iframe>
 
 $$ AA' и CC' - высоты $$
 $$ O = AA' \cap CC' $$
