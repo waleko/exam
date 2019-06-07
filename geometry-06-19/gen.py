@@ -22,7 +22,7 @@ for line in lines:
         short_text += '...'
     createFolder(str(num))
     with codecs.open(str(num) + '/README.md', 'w+', encoding='utf-8') as f:
-        data_to_write = '# ' + text
+        data_to_write = '# Билет №' + str(num) + '\n' + text + '\n\n\n'
         f.write(data_to_write)
     print('* [Билет №' + str(num) + ' (' + short_text + ')](' + str(num) + ')')
 print('--------------')
