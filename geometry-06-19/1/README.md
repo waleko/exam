@@ -15,4 +15,6 @@ $$ B' = BO \cap AC $$
 
 Также из вертикальности углов следует $$ \angle BOC' = \angle COB' \Rightarrow \angle OB'C = \angle OC'B = 90^{\circ} $$
 
+**Аналогичный разбор случая тупого треугольника**
+
 {% include lib/mathjax.html %}
