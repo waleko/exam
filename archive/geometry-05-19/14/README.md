@@ -33,5 +33,5 @@ d = \sqrt{(x' - x_0)^2 + (y' - y_0)^2} = \sqrt{(\frac{b^2x_0 - aby_0 - ac}{a^2 +
 = \sqrt{\frac{(-aby_0 - ac - a^2x_0)^2 + (-abx_0 - bc - b^2y_0)^2}{(a^2 + b^2)^2}} = \\
 = \sqrt{\frac{a^2(ax_0 + by_0 + c)^2 + b^2(ax_0 + by_0 + c)^2}{(a^2 + b^2)^2}} = \\
 = \sqrt{\frac{(a^2 + b^2)(ax_0 + by_0 + c)^2}{(a^2 + b^2)^2}} = \\
-= |\frac{ax_0 + by_0 + c}{\sqrt{a^2 + b^2}}| \\
+= |\frac{ax_0 + by_0 + c}{\sqrt{a^2 + b^2}}| $$
 {% include lib/mathjax.html %}
