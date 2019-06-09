@@ -17,21 +17,25 @@ $$
   bx' - ay' - (bx_0 - ay_0) = 0
 \end{cases} $$
 
-Решим первое уравнение
+Решим первое уравнение:
+
 $$ x' = \frac{-c - by'}{a} $$
 
 Подставим $$ x' $$:
+
 $$ b \cdot \frac{-c - by'}{a} - ay' - (bx_0 - ay_0) = 0 \\
 bc + b^2y' + a^2y' + abx_0 - a^2y_0 = 0 \\
 y'(a^2 + b^2) = a^2y_0 - abx_0 - bc \\
 y' = \frac{a^2y_0 - abx_0 - bc}{a^2 + b^2} $$
 
 Подставим и посчитаем $$ x' $$:
+
 $$ x' = \frac{-c - b \cdot \frac{a^2y_0 - abx_0 - bc}{a^2 + b^2}}{a} = \\
 = \frac{\frac{a^2by_0 - ab^2x_0 - b^2c + c(a^2 + b^2)}{a^2 + b^2}}{-a} = \\
 = \frac{a^2by_0 - ab^2x_0 - a^2c}{-a(a^2 + b^2)} = \frac{b^2x_0 - aby_0 - ac}{a^2 + b^2} $$
 
 Теперь можем посчитать расстояние от точки $$ (x'; y') $$ до $$ (x_0; y_0) $$:
+
 $$ d = \sqrt{(x' - x_0)^2 + (y' - y_0)^2} = \sqrt{(\frac{b^2x_0 - aby_0 - ac}{a^2 + b^2} - x_0)^2 + (\frac{a^2y_0 - abx_0 - bc}{a^2 + b^2} - y_0)^2} = \\
 = \sqrt{(\frac{b^2x_0 - aby_0 - ac - x_0(a^2 + b^2)}{a^2 + b^2})^2 + (\frac{a^2y_0 - abx_0 - bc - y_0(a^2 + b^2)}{a^2 + b^2})^2} = \\
 = \sqrt{\frac{(-aby_0 - ac - a^2x_0)^2 + (-abx_0 - bc - b^2y_0)^2}{(a^2 + b^2)^2}} = \\
