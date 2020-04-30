@@ -1,4 +1,5 @@
-import os, codecs
+import os
+import codecs
 
 
 def createFolder(directory):
