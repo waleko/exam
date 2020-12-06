@@ -36,7 +36,7 @@
 <img src='resources/E_fuck_02.png' height="55"/>
 Значит
 <img src='resources/E_fuck_03.png' height="55"/>
-<img src='resouces/E_fuck_04.png' height="55"/>
+<img src='resources/E_fuck_04.png' height="55"/>
 
 Итого смысл диэлектрической восприимчивости - во сколько раз ослаблено поле внутри диэлектрика.
  
