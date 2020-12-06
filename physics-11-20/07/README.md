@@ -29,13 +29,21 @@
 <img src='resources/E_sharp.png' height="55"/>
 
  Напряжённость самого поля от пластин - <img src='resources/E_bas.png' height="25">. Поля противонаправлены, значит поле внутри диэлектрика:
+
 <img src='resources/E_fuck_01.png' height="55"/>
+
 Т.к. внешнее поле перпендикулярно поверхности пластины, 
+
 <img src='resources/sigma_eq.png' height="55"/>
+
 Тогда имеем
+
 <img src='resources/E_fuck_02.png' height="55"/>
+
 Значит
+
 <img src='resources/E_fuck_03.png' height="55"/>
+
 <img src='resources/E_fuck_04.png' height="55"/>
 
 Итого смысл диэлектрической восприимчивости - во сколько раз ослаблено поле внутри диэлектрика.
