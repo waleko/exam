@@ -42,7 +42,7 @@
 
 И новый орбитальный момент, модуль которого, что важно, меньше исходного:
 
-<img src='resources/new_orb_mom.png height="40">
+<img src='resources/new_orb_mom.png' height="40"/>
 
 Вот ссылка:
 https://studfile.net/preview/2730469/page:2/
